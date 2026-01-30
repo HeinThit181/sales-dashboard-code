@@ -50,17 +50,17 @@ The system is designed for small businesses or educational use, requiring no bac
 <p>The Dashboard provides an analytical overview of the sales data recorded in the Sales Journal. It retrieves sales data from local storage and allows users to filter results by daily, weekly, or monthly time periods.
 
 The dashboard displays key sales information, including total sales revenue, total number of transactions, and the best-selling product. It also presents visual charts such as sales trends over time, sales distribution by category, and top-selling products. Additionally, a detailed table shows sales performance by product, including total units sold and revenue. The dashboard helps users quickly understand sales performance and trends.</p>
-![Preview](images/Dashboard.png)
-https://raw.githubusercontent.com/HeinThit181/sales-dashboard-code/refs/heads/main/images/Dahboard.png
-![Dashboard Preview](images/Dashboard_w.png)
-![Dashboard Preview](images/Dashboard_m.png)
+<img width="1710" height="1112" alt="Dahboard_d" src="https://github.com/user-attachments/assets/82beb946-80fc-43f5-9e0e-520947caeaf9" />
+<img width="1710" height="1112" alt="Dahboard" src="https://github.com/user-attachments/assets/103b2e67-43f7-4113-b4fb-64477ffc27ce" />
+<img width="1710" height="1112" alt="Dahboard_m" src="https://github.com/user-attachments/assets/6b6dc4d3-48d9-41fb-99dd-338028240bd9" />
+<img width="1710" height="1112" alt="Dahboard_w" src="https://github.com/user-attachments/assets/0708d52c-5f46-46dc-b874-a568f62f3f97" />
 <hr/>
 
 <h3>Sales Journal</h3>
 <p>The Sales Journal is responsible for recording and managing sales transactions. Users can add new sales by selecting a product from a predefined list, entering the quantity, choosing the sale date, and optionally assigning a category. The system automatically calculates the total price based on the unit price and quantity. The Sales Journal validates user input to ensure that all required information is provided before saving a sale. All sales records are stored locally in the browser using localStorage. Users can view recorded sales in a table format and delete individual records when necessary. This module focuses on accurate data entry and basic sales record management.</p>
-![Dashboard Preview](images/Dashboardm.png)
+<img width="1710" height="1112" alt="sales" src="https://github.com/user-attachments/assets/4fafb53c-029e-4bb6-a7b8-878d30615ad4" />
 <hr/>
 
 <h3>Deploy Link</h3>
-<a href="[about.html](https://heinthit181.github.io/sales-dashboard-deploy/)">https://heinthit181.github.io/sales-dashboard-deploy/</a>
+https://heinthit181.github.io/sales-dashboard-deploy/
 <hr/>
