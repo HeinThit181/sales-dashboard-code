@@ -1,4 +1,4 @@
-<img width="1710" height="1112" alt="Screenshot 2026-01-30 at 10 23 44 PM" src="https://github.com/user-attachments/assets/09277056-044a-4d6c-ad92-4a4d1f8a0ead" /># sales-dashboard-code
+#sales-dashboard-code
 
 <h3>Overview</h3>
 <ol>
