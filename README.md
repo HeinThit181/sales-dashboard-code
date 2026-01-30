@@ -6,7 +6,6 @@
   <li>Members</li>
   <li>Dashboard</li>
   <li>Sales Journal</li>
-  <li>File path</li>
   <li>Deploy Link</li>
 </ol>
 <hr/>
