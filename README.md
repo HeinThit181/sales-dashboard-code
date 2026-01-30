@@ -50,7 +50,7 @@ The system is designed for small businesses or educational use, requiring no bac
 <p>The Dashboard provides an analytical overview of the sales data recorded in the Sales Journal. It retrieves sales data from local storage and allows users to filter results by daily, weekly, or monthly time periods.
 
 The dashboard displays key sales information, including total sales revenue, total number of transactions, and the best-selling product. It also presents visual charts such as sales trends over time, sales distribution by category, and top-selling products. Additionally, a detailed table shows sales performance by product, including total units sold and revenue. The dashboard helps users quickly understand sales performance and trends.</p>
-https://raw.githubusercontent.com/HeinThit181/sales-dashboard-code/refs/heads/main/images/Dahboard_d.png
+![Preview](images/Dashboard.png)
 https://raw.githubusercontent.com/HeinThit181/sales-dashboard-code/refs/heads/main/images/Dahboard.png
 ![Dashboard Preview](images/Dashboard_w.png)
 ![Dashboard Preview](images/Dashboard_m.png)
